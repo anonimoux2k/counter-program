@@ -1,3 +1,3 @@
 # Counter program
 
-Risein Build on Solana Cource. Project 1 - Counter.
+Risein Build on Solana Course. Project 1 - Counter.
